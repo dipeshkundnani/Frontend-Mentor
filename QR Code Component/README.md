@@ -1,13 +1,10 @@
 ### Screenshot
 
-
-
-
+![image](https://user-images.githubusercontent.com/62235763/186230757-3361b674-64d3-4430-814f-f95a43ad995d.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: https://github.com/dipeshkundnani/Frontend-Mentor
 
 ### Built with
 
@@ -21,7 +18,6 @@ This Frontend Mentor Project is useful for practice your html and css skills if 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/dipeshkundnani
+- Twitter - @dipesh_twt
 
